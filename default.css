@@ -214,8 +214,8 @@ img.right {
 /* About Box */
 
 #about-box {
-	width: 220px;
-	height: 132px;
+	width: 185px;
+	height: 162px;
 	padding: 70px 37px 0 35px;
 	background: url(images/img11.jpg) no-repeat left bottom;
 }
@@ -234,12 +234,12 @@ img.right {
 
 #sidebar {
 	float: right;
-	width: 325px;
+	width: 274px;
 	background: url(images/img05.jpg) no-repeat;
 }
 
 #sidebar ul {
-	width: 256px;
+	width: 206px;
 	margin: 0;
 	padding: 0 0 0 30px;
 	list-style: none;
